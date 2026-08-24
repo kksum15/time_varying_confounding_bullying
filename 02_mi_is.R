@@ -26,13 +26,6 @@ library(patchwork)
 library(tableone)
 
 ####################
-# File directory
-####################
-
-# data_dir <- "/Volumes/005/working/data"
-# output_dir <- "/Volumes/005/working/results
-
-####################
 # Import dataset 
 ####################
 
