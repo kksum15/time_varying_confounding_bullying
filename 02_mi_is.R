@@ -272,7 +272,7 @@ for (var in vars_imputed_male) {
 
 # 2. Run final imputations with the number of iterations determined with 100 imputation sets
 # Only 6.96% of females and 4.66% of males are complete cases, so technically minimum imputation sets should be around 95; 
-# rule of thumb: number of imputation sets should be at least as many as % of missing cases but Jon usually does 100 minimum 
+# rule of thumb: number of imputation sets should be at least as many as % of missing cases but run 100 minimum 
 # try to run imputation in parallel using multiple cores - speed-up mainly affects the number of imputations not iterations 
 ##################################################################################################################
 
