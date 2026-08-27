@@ -218,7 +218,7 @@ m = 100
 B = 500
 
 # Source functions 
-source("/Volumes/005/working/scripts/bullying_ob/msm_exposure_regime_functions.R")
+source("msm_static_functions.R")
 
 # Set up the cluster
 cl <- makeCluster(detectCores() - 1)
