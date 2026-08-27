@@ -34,7 +34,7 @@ load(file = file.path(data_dir,"processed_data/ipw_male.RData"))
 # Source functions 
 #######################
 
-source("/Volumes/005/working/scripts/bullying_ob/msm_lmtp_functions.R")
+source("lmtp_functions.R")
 
 ##########################
 # Define vectors and lists
