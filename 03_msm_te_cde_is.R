@@ -33,7 +33,7 @@ load(file = file.path(data_dir,"processed_data/imp_merged_male_3int_072025.RData
 # Source functions 
 #######################
 
-source("/Volumes/005/working/scripts/bullying_ob/msm_joint_effects_functions.R")
+source("msm_joint_effects_functions.R")
 
 ####################################################################################################################
 # Compute joint effects of bullying (total = 50 variables)
